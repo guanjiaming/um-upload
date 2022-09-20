@@ -1,0 +1,10 @@
+um:
+  upload:
+    baseUrl: /Users/guanjiaming/Documents/RongDa/test/upload/
+spring:
+  redis:
+    host: localhost
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
