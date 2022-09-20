@@ -1,4 +1,4 @@
-#考核之文件上传功能(关佳明)
+#文件上传功能
 
 ### 前端使用vite+vue3
 > components/UmUpload.vue 上传文件组件
